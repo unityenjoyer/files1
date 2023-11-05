@@ -1,0 +1,11 @@
+﻿[PMC Globals]|None||
+[PMC Code v5.4.1]|F3||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro1
+Context=None|
+Groups=Start:1
+1|[Text]|cd\|1|0|SendRaw|||||1|
+2|Enter|{Enter}|1|20|Send|||||2|
+3|[Text]|D:|1|5|SendRaw|||||4|
+4|Enter|{Enter}|1|20|Send|||||6|
+5|[Text]|D:\Asgard\GameLibrary\102322911\build>Microsoft.GamingApp.Appx`n|1|5|SendRaw|||||8|
+6|Enter|{Enter}|1|20|Send|||||14|
+
